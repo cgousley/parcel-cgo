@@ -1,0 +1,46 @@
+{
+    "alternates": [
+
+        {
+            "language": "es",
+            "uri": "/es"
+        },
+        {
+            "language": "fr",
+            "uri": "/fr"
+        }
+    ],
+    "bodyclass": "index",
+    "language": "en",
+    "meta": {
+
+        "author": "Author Name",
+        "description": "Some meta description",
+        "keywords": "Some Meta Keywords",
+        "robots": [
+            "index",
+            "follow"
+        ]
+    },
+    "scripts": [
+        "../typescript/index.ts"
+    ],
+    "stylesheets": {
+      "0":  "../scss/index.scss"
+
+    },
+
+
+    "controls": {
+        "button": {
+            "0": {
+                "id": "color",
+                "text": "Color!"
+            },
+            "1": {
+                "id": "premium-color",
+                "text": "Premium color!"
+            }
+        }
+    }
+}

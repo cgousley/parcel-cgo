@@ -1,0 +1,34 @@
+{
+  "name": "parcel-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/markup/index.hbs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel ./src/markup/index.hbs --no-cache",
+    "w": "parcel watch ./src/markup/index.hbs --no-cache"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.3",
+    "handlebars": "^4.0.12",
+    "handlebars-helpers": "^0.10.0",
+    "handlebars-layouts": "^3.1.4",
+    "handlebars-wax": "^6.1.0",
+    "node-sass": "^4.11.0",
+    "parcel-bundler": "^1.11.0",
+    "parcel-plugin-handlebars": "^0.4.4",
+    "parcel-plugin-json": "^1.0.1",
+    "parcel-plugin-watch-reload": "0.0.2",
+    "serve": "^6.4.8",
+    "typescript": "^2.6.2"
+  },
+  "dependencies": {
+    "globby": "^8.0.1",
+    "parcel-plugin-handlebars-json": "0.0.2"
+  },
+  "watchreload": {
+    "files": []
+  }
+}

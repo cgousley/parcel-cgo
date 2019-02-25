@@ -22,11 +22,11 @@
     "parcel-plugin-watch-reload": "0.0.2",
     "sass": "^1.17.0",
     "serve": "^6.4.8",
-    "typescript": "^2.6.2"
+    "typescript": "^2.6.2",
   },
   "dependencies": {
     "globby": "^8.0.1",
-    "parcel-plugin-handlebars-json": "0.0.2"
+    "parcel-plugin-handlebars-json": "0.0.2",
   },
   "watchreload": {
     "files": []

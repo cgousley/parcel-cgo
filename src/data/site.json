@@ -1,8 +1,15 @@
 {
-  "title": "Jekyllsmith",
-  "tagline": "Jekyll-like Handlebar",
-  "description":
-    "A reserved <a href=\"http://jekyllrb.com\" target=\"_blank\">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href=\"https://twitter.com/mdo\" target=\"_blank\">@mdo</a>.",
-  "author": "Creation Studio Limited",
-  "email": "thecreation@gmail.com"
+    "title": "Title",
+    "tagline": "CGO Parcel Handlebars",
+    "description": "A reserved <a href=\"http://jekyllrb.com\" target=\"_blank\">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href=\"https://twitter.com/mdo\" target=\"_blank\">@mdo</a>.",
+    "author": "plusEquals",
+    "email": "clayton@plus-equals.net",
+
+    "meta": {
+        "author": "Author Name",
+        "description": "Some meta description",
+        "keywords": "Some, Meta, Keywords",
+        "robots": "index, follow",
+        "title": "Home"
+    }
 }
